@@ -1,0 +1,1404 @@
+{
+    "Sheet1": [
+        {
+            "id": "256",
+            "code": "DI003",
+            "name": "Heptane recovery",
+            "detail": "Heptane",
+            "material": "Disposal"
+        },
+        {
+            "id": "257",
+            "code": "EH101",
+            "name": "ทรายเปื้อนน้ำมันหรือสารเคมี",
+            "detail": "ทรายที่นำไปดูดซับน้ำมันหรือสารเคมี",
+            "material": "Disposal"
+        },
+        {
+            "id": "258",
+            "code": "EH102",
+            "name": "Resin เปื้อนน้ำมันหรือสารเคมี",
+            "detail": "Resin เปื้อนน้ำมันหรือสารเคมี",
+            "material": "Disposal"
+        },
+        {
+            "id": "259",
+            "code": "EH103",
+            "name": "Sludge oil (tank)",
+            "detail": "กากตะกอนน้ำมันที่มีลักษณะเป็นเหลวหนืด/ของแข็ง",
+            "material": "Disposal"
+        },
+        {
+            "id": "260",
+            "code": "EH104",
+            "name": "Sludge oil",
+            "detail": "กากตะกอนน้ำมันที่มีลักษณะเป็นเหลวหนืด/ของแข็ง",
+            "material": "Disposal"
+        },
+        {
+            "id": "261",
+            "code": "EH105",
+            "name": "Filter",
+            "detail": "ตัวกรองสารเคมี",
+            "material": "Disposal"
+        },
+        {
+            "id": "262",
+            "code": "EH106",
+            "name": "Intermediate Polymer",
+            "detail": "พลาสติกที่เกิดจากการ Polymerization ที่ไม่สมบูรณ์",
+            "material": "Disposal"
+        },
+        {
+            "id": "263",
+            "code": "EH107",
+            "name": "Dirty coagulum",
+            "detail": "กากตะกอน Latex",
+            "material": "Disposal"
+        },
+        {
+            "id": "264",
+            "code": "EH108",
+            "name": "Mixed additive powder",
+            "detail": "ผงเติมแต่งที่ใช้ในกระบวนการผลิตที่ไม่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "265",
+            "code": "EH109",
+            "name": "Dirty Tar",
+            "detail": "น้ำมันดินสกปรก",
+            "material": "Disposal"
+        },
+        {
+            "id": "266",
+            "code": "EH111",
+            "name": "Waste Organic",
+            "detail": "สารโอลิโกเมอร์",
+            "material": "Disposal"
+        },
+        {
+            "id": "267",
+            "code": "EH112",
+            "name": "เศษขยะปนเปื้อนน้ำมัน",
+            "detail": "เศษขยะปนเปื้อนน้ำมันที่ไม่สามารถเผาได้",
+            "material": "Disposal"
+        },
+        {
+            "id": "268",
+            "code": "EH113",
+            "name": "Spent Cat & Adsorbent Contaminate",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้วปนเปื้อน",
+            "material": "Disposal"
+        },
+        {
+            "id": "269",
+            "code": "EH114",
+            "name": "Sludge waste polymer with NSI",
+            "detail": "ตะกอนโพลีเมอร์ปนเปื้อน",
+            "material": "Disposal"
+        },
+        {
+            "id": "270",
+            "code": "EH130",
+            "name": "Carbon Black(AB OFF)",
+            "detail": "Acetylene black off",
+            "material": "Disposal"
+        },
+        {
+            "id": "271",
+            "code": "EH200",
+            "name": "น้ำปนเปื้อนน้ำมัน",
+            "detail": "น้ำมันที่ถ่ายออกจากเครื่องจักรและปนเปื้อนน้ำ",
+            "material": "Disposal"
+        },
+        {
+            "id": "272",
+            "code": "EH201",
+            "name": "Volatile waste",
+            "detail": "Hydrocarbon ที่เหลือจากการวิเคราะห์ในห้องปฏิบัติการ",
+            "material": "Disposal"
+        },
+        {
+            "id": "273",
+            "code": "EH202",
+            "name": "Liquid chemical waste",
+            "detail": "น้ำปนเปื้อนสารเคมี",
+            "material": "Disposal"
+        },
+        {
+            "id": "274",
+            "code": "EH203",
+            "name": "Spent caustic",
+            "detail": "Spent caustic (ชื่อเฉพาะ)",
+            "material": "Disposal"
+        },
+        {
+            "id": "275",
+            "code": "EH204",
+            "name": "Oil + Monomer",
+            "detail": "น้ำมัน+โมโนเมอร์",
+            "material": "Disposal"
+        },
+        {
+            "id": "276",
+            "code": "EH205",
+            "name": "Red oil",
+            "detail": "น้ำมัน+สารเคมีจากโรงงาน ETP",
+            "material": "Disposal"
+        },
+        {
+            "id": "277",
+            "code": "EH206",
+            "name": "Dirty coke",
+            "detail": "Coke จากการ Drain",
+            "material": "Disposal"
+        },
+        {
+            "id": "278",
+            "code": "EH207",
+            "name": "Mixed liquid chemical waste",
+            "detail": "สารเคมีต่างๆจากงานล้างทำความสะอาด",
+            "material": "Disposal"
+        },
+        {
+            "id": "279",
+            "code": "EH208",
+            "name": "Waste cat G",
+            "detail": "เป็นสารเร่งปฏิกิริยาที่ใช้ในการผลิตมีองค์ประกอบ TiCl4 โดยมีการเติมAmine เพื่อใช้ในการยับยั้งการเกิดปฏิกิริยา มีลักษณะเป็นตะกอนน้ำมัน ผสมโพลีเมอร์",
+            "material": "Disposal"
+        },
+        {
+            "id": "280",
+            "code": "EH209",
+            "name": "Filter cake",
+            "detail": "โซเดียมไพโรฟอสเฟต, โปตัสเซียมซัลเฟต",
+            "material": "Disposal"
+        },
+        {
+            "id": "281",
+            "code": "EH210",
+            "name": "Waste solid chemical",
+            "detail": "Dicarboxylic acid เสื่อมสภาพ",
+            "material": "Disposal"
+        },
+        {
+            "id": "282",
+            "code": "EH211",
+            "name": "Waste solid prepolymer",
+            "detail": "Polyurethane จากการเก็บ sample prepolymer",
+            "material": "Disposal"
+        },
+        {
+            "id": "283",
+            "code": "EH213",
+            "name": "กากตะกอนจากบ่อน้ำเสีย",
+            "detail": "ตะกอน Neutralization",
+            "material": "Disposal"
+        },
+        {
+            "id": "284",
+            "code": "EH214",
+            "name": "น้ำยาล้าง tube ของ heat exchanger",
+            "detail": "น้ำปนเปื้อนสารแอมโมเนีย",
+            "material": "Disposal"
+        },
+        {
+            "id": "285",
+            "code": "EH215",
+            "name": "น้ำยาล้างมอเตอร์",
+            "detail": "น้ำยาล้างมอเตอร์",
+            "material": "Disposal"
+        },
+        {
+            "id": "286",
+            "code": "EH216",
+            "name": "Sludge Wastewater",
+            "detail": "ตะกอน Waste จาก Heat Exchanger",
+            "material": "Disposal"
+        },
+        {
+            "id": "287",
+            "code": "EH217",
+            "name": "Polymer & Catalyst Dust",
+            "detail": "เศษตะกอน Polymer",
+            "material": "Disposal"
+        },
+        {
+            "id": "288",
+            "code": "EH218",
+            "name": "Condense Oil",
+            "detail": "Oil + น้ำที่มีความหนืดสูง",
+            "material": "Disposal"
+        },
+        {
+            "id": "289",
+            "code": "EH219",
+            "name": "Waste Styrene",
+            "detail": "Waste STY ที่มีตะกอนแข็งหรือเริ่มแข็งตัว",
+            "material": "Disposal"
+        },
+        {
+            "id": "290",
+            "code": "EH221",
+            "name": "TBC + H2O",
+            "detail": "TBC + H2O",
+            "material": "Disposal"
+        },
+        {
+            "id": "291",
+            "code": "EH222",
+            "name": "ภาชนะบรรจุปนเปื้อนสารเคมี",
+            "detail": "ภาชนะบรรจุปนเปื้อนสารเคมี (ขวดแก้ว,ขวดเก็บSample,ถังพลาสติกขนาดเล้ก)",
+            "material": "Disposal"
+        },
+        {
+            "id": "292",
+            "code": "EH223",
+            "name": "เศษผ้าเปื้อนน้ำมัน",
+            "detail": "เศษผ้าเปื้อนน้ำมันเท่านั้นไม่ปนเปื้อนสารเคมี",
+            "material": "Disposal"
+        },
+        {
+            "id": "293",
+            "code": "EH224",
+            "name": "หลอดไฟฮาโรเจน",
+            "detail": "หลอดไฟ ชนิดพิเศษมีลักษณะกลม",
+            "material": "Disposal"
+        },
+        {
+            "id": "294",
+            "code": "EH225",
+            "name": "Refractory ปนเปื้อน",
+            "detail": "Refractory ปนเปื้อน",
+            "material": "Disposal"
+        },
+        {
+            "id": "295",
+            "code": "EH226",
+            "name": "Scrap glass fiber",
+            "detail": "ก้อนพลาสติกเกรดทำไฟเบอร์",
+            "material": "Disposal"
+        },
+        {
+            "id": "296",
+            "code": "EH227",
+            "name": "สีหมดอายุ",
+            "detail": "สีหมดอายุ",
+            "material": "Disposal"
+        },
+        {
+            "id": "297",
+            "code": "EH228",
+            "name": "จารบีใช้แล้ว",
+            "detail": "จารบีใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "298",
+            "code": "EH229",
+            "name": "Dirty slack wax",
+            "detail": "แวกซ์ที่สกปรกจากการกลั่นปิโตรเลียม",
+            "material": "Disposal"
+        },
+        {
+            "id": "299",
+            "code": "EH230",
+            "name": "ซากถ่านไฟฉาย",
+            "detail": "ถ่านไฟฉาย ซากแบตเตอร์รี่ เสื่อมสภาพ",
+            "material": "Disposal"
+        },
+        {
+            "id": "300",
+            "code": "EH231",
+            "name": "ถุงกระดาษปนเปื้อนAdditive",
+            "detail": "ถุงกระดาษปนเปื้อนAdditive สารเคมี",
+            "material": "Disposal"
+        },
+        {
+            "id": "301",
+            "code": "EH232",
+            "name": "ถุงปนเปื้อนACB",
+            "detail": "ถุงกระดาษปนเปื้อนCarbon black",
+            "material": "Disposal"
+        },
+        {
+            "id": "302",
+            "code": "EH233",
+            "name": "กระป๋องสเปรย์",
+            "detail": "กระป่องสีที่มีแรงดัน, กระป่องยาฆ่าแมลง",
+            "material": "Disposal"
+        },
+        {
+            "id": "303",
+            "code": "EH234",
+            "name": "Contaminated soil",
+            "detail": "ดิน หินปนเปื้อนน้ำมัน",
+            "material": "Disposal"
+        },
+        {
+            "id": "304",
+            "code": "EH235",
+            "name": "Filter bag ACB",
+            "detail": "ถุงกรองปนเปื้อนคาร์บอนแบล็ค",
+            "material": "Disposal"
+        },
+        {
+            "id": "305",
+            "code": "EH236",
+            "name": "หลอดฟลูออเรสเซ้นส์",
+            "detail": "หลอดฟลูออเรสเซ้นส์ หลอดตรงสภาพดี",
+            "material": "Disposal"
+        },
+        {
+            "id": "306",
+            "code": "EH239",
+            "name": "Solid waste from Lab.",
+            "detail": "ของเสียเปื้อนสารเคมีจากห้องทดลอง",
+            "material": "Disposal"
+        },
+        {
+            "id": "307",
+            "code": "EH241",
+            "name": "Waste Lab Chemical(COD)",
+            "detail": "น้ำปนเปื้อนสารเคมีจากการวิเคราะห์ COD",
+            "material": "Disposal"
+        },
+        {
+            "id": "308",
+            "code": "EH243",
+            "name": "Sample polymer",
+            "detail": "ตัวอย่างโพลีเมอร์",
+            "material": "Disposal"
+        },
+        {
+            "id": "309",
+            "code": "EH246",
+            "name": "Waste Styrene Water",
+            "detail": "น้ำปนเปื้อน Styrene น้ำ",
+            "material": "Disposal"
+        },
+        {
+            "id": "310",
+            "code": "EH247",
+            "name": "Waste monomer",
+            "detail": "Waste monomer มีส่วนผสมของ STY+ACN+EB จะมีลักษณะเป็นของเหลว",
+            "material": "Disposal"
+        },
+        {
+            "id": "311",
+            "code": "EH249",
+            "name": "Degrade sulfolane",
+            "detail": "Degrade sulfolane",
+            "material": "Disposal"
+        },
+        {
+            "id": "312",
+            "code": "EH250",
+            "name": "Aromatic waste",
+            "detail": "Aromatic waste",
+            "material": "Disposal"
+        },
+        {
+            "id": "313",
+            "code": "EH251",
+            "name": "Used alcohol",
+            "detail": "Methanolปนเปื้อนcatalystที่นำไปล้างตะแกรงกรอง",
+            "material": "Disposal"
+        },
+        {
+            "id": "314",
+            "code": "EH252",
+            "name": "Solid ZnO powder",
+            "detail": "Waste ZnO ที่เกิดจากกระบวนการผลิตของ Nano Process",
+            "material": "Disposal"
+        },
+        {
+            "id": "315",
+            "code": "EH253",
+            "name": "Nikel Cadmium Battery",
+            "detail": "เปลี่ยน Nikel Cadmium Battery ใหม่ เนื่องจากของเก่าเสื่อมสภาพ",
+            "material": "Disposal"
+        },
+        {
+            "id": "316",
+            "code": "EH254",
+            "name": "ทราย Sand Blast",
+            "detail": "เป็นทรายที่เกิดจากกระบวนการทำความสะอาดพื้นผิวถังบรรจุน้ำมันที่ผ่านการล้างสะอาดแล้ว เพื่อเตรียมผิวรอการทำสีพื้นผิวใหม่",
+            "material": "Disposal"
+        },
+        {
+            "id": "317",
+            "code": "EN001",
+            "name": "Lime sludge",
+            "detail": "กากตะกอนปูนขาว",
+            "material": "Disposal"
+        },
+        {
+            "id": "318",
+            "code": "EN002",
+            "name": "Dirty sulphur",
+            "detail": "กำมะถันที่สกปรก",
+            "material": "Disposal"
+        },
+        {
+            "id": "319",
+            "code": "EN003",
+            "name": "ตะกอนจากการลอกบ่อปรับสภาพน้ำ",
+            "detail": "ตะกอนแคลเซียม",
+            "material": "Disposal"
+        },
+        {
+            "id": "320",
+            "code": "EN004",
+            "name": "ฉนวนใช้งานแล้ว",
+            "detail": "ฉนวนกันไฟกันความร้อน",
+            "material": "Disposal"
+        },
+        {
+            "id": "321",
+            "code": "EN005",
+            "name": "เรซิน",
+            "detail": "เรซินใช้แล้วจากระบบน้ำ Demin",
+            "material": "Disposal"
+        },
+        {
+            "id": "322",
+            "code": "EN007",
+            "name": "ตะแกรงกรองพลาสติก",
+            "detail": "ตะแกรงกรองพลาสติก",
+            "material": "Disposal"
+        },
+        {
+            "id": "323",
+            "code": "EN008",
+            "name": "Waste water sludge",
+            "detail": "ตะกอนน้ำเสีย Chemical sludge",
+            "material": "Disposal"
+        },
+        {
+            "id": "324",
+            "code": "EN009",
+            "name": "Bio Sludge",
+            "detail": "ตะกอนน้ำเสีย Biological sludge",
+            "material": "Disposal"
+        },
+        {
+            "id": "325",
+            "code": "EN011",
+            "name": "ขี้เถ้า",
+            "detail": "ขี้เถ้าจากการเผาไหม้",
+            "material": "Disposal"
+        },
+        {
+            "id": "326",
+            "code": "EN012",
+            "name": "ขยะกวาดพื้น",
+            "detail": "ผงฝุ่น, ผงถ่านและผงพลาสติก",
+            "material": "Disposal"
+        },
+        {
+            "id": "327",
+            "code": "EN013",
+            "name": "ตะกอนจากการลอกรางระบายน้ำ",
+            "detail": "ตะกอนดิน",
+            "material": "Disposal"
+        },
+        {
+            "id": "328",
+            "code": "EN014",
+            "name": "เศษยาง,ยางเสื่อมสภาพ",
+            "detail": "เศษยาง,ยางเสื่อมสภาพ",
+            "material": "Disposal"
+        },
+        {
+            "id": "329",
+            "code": "EN015",
+            "name": "ซากผ้าใบ",
+            "detail": "ผ้าใบขาดที่ไม่สามารถขายหรือใช้งานได้",
+            "material": "Disposal"
+        },
+        {
+            "id": "330",
+            "code": "EN016",
+            "name": "ซากสายพาน",
+            "detail": "สายพานเก่าที่ใช้งานไม่ได้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "331",
+            "code": "EN017",
+            "name": "เศษสนิม",
+            "detail": "เศษสนิมจากงาน Clean ต่างๆ",
+            "material": "Disposal"
+        },
+        {
+            "id": "332",
+            "code": "EN018",
+            "name": "Filter bag",
+            "detail": "ผ้ากรองฝุ่นสารเคมีAdditive",
+            "material": "Disposal"
+        },
+        {
+            "id": "333",
+            "code": "EN019",
+            "name": "Slag from boiler",
+            "detail": "Slag จากการ clean boiler",
+            "material": "Disposal"
+        },
+        {
+            "id": "334",
+            "code": "EN101",
+            "name": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "335",
+            "code": "EN102",
+            "name": "Activated alumina",
+            "detail": "สารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "336",
+            "code": "EN104",
+            "name": "Spent Cat. & Adsorbent 10D009",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "337",
+            "code": "EN105",
+            "name": "Spent Cat. & Adsorbent 10D010",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "338",
+            "code": "EN106",
+            "name": "Spent Cat. & Adsorbent 11A001",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "339",
+            "code": "EN107",
+            "name": "Spent Cat. & Adsorbent 11A002",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "340",
+            "code": "EN108",
+            "name": "Spent Cat. & Adsorbent 13A001",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "341",
+            "code": "EN109",
+            "name": "Spent Cat. & Adsorbent 13A002",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "342",
+            "code": "EN110",
+            "name": "Spent Cat. & Adsorbent 15R001",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "343",
+            "code": "EN111",
+            "name": "Spent Cat. & Adsorbent 15D023",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "344",
+            "code": "EN112",
+            "name": "Spent Cat. & Adsorbent 30R001",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "345",
+            "code": "EN113",
+            "name": "Spent Cat. & Adsorbent 31R001",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "346",
+            "code": "EN115",
+            "name": "Spent Cat. & Adsorbent 33R001",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "347",
+            "code": "EN116",
+            "name": "Spent Cat. & Adsorbent 33D006",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "348",
+            "code": "EN117",
+            "name": "Spent Cat. & Adsorbent 33D007",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "349",
+            "code": "EN118",
+            "name": "Spent Cat. & Adsorbent 33D008",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "350",
+            "code": "EN119",
+            "name": "Spent Cat. & Adsorbent 33D009",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "351",
+            "code": "EN120",
+            "name": "Spent Cat. & Adsorbent 33D010",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "352",
+            "code": "EN121",
+            "name": "Spent Cat. & Adsorbent 33D0011",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "353",
+            "code": "EN122",
+            "name": "Spent Cat. & Adsorbent 37C001",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "354",
+            "code": "EN123",
+            "name": "Spent Cat. & Adsorbent 37D005",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "355",
+            "code": "EN126",
+            "name": "Spent Cat. & Adsorbent S2001",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "356",
+            "code": "EN127",
+            "name": "Spent Cat. & Adsorbent CRS31",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "357",
+            "code": "EN130",
+            "name": "ACTIVATED CARBON",
+            "detail": "ACTIVATED CARBON",
+            "material": "Disposal"
+        },
+        {
+            "id": "358",
+            "code": "EN131",
+            "name": "Spent Cat. & Adsorbent 22R001",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "359",
+            "code": "EN132",
+            "name": "Spent Cat. & Adsorbent 22R002",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "360",
+            "code": "EN133",
+            "name": "Spent Cat. & Adsorbent 22R003",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "361",
+            "code": "EN134",
+            "name": "Spent Cat. & Adsorbent (Clay)",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "362",
+            "code": "EN135",
+            "name": "Spent Cat. & Adsorbent 01R001",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "363",
+            "code": "EN136",
+            "name": "Spent Cat. & Adsorbent 01R002",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "364",
+            "code": "EN137",
+            "name": "Spent Cat. & Adsorbent 01R003",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "365",
+            "code": "EN138",
+            "name": "Spent Cat. & Adsorbent 04F005",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "366",
+            "code": "EN139",
+            "name": "Spent Cat. & Adsorbent A3701A",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "367",
+            "code": "EN140",
+            "name": "Spent Cat. & Adsorbent A3701R",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "368",
+            "code": "EN141",
+            "name": "Spent Cat. & Adsorbent A3702A",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "369",
+            "code": "EN142",
+            "name": "Spent Cat. & Adsorbent 10R001",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "370",
+            "code": "EN143",
+            "name": "Spent Cat. & Adsorbent 13R001",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "371",
+            "code": "EN144",
+            "name": "Spent Cat. & Adsorbent 10D007A",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "372",
+            "code": "EN145",
+            "name": "Spent Cat. & Adsorbent 10D007B",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "373",
+            "code": "EN146",
+            "name": "Spent Cat. & Adsorbent 10D006",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "374",
+            "code": "EN147",
+            "name": "Spent Cat. & Adsorbent 10D008A/B",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "375",
+            "code": "EN148",
+            "name": "Spent Cat. & Adsorbent UT",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "376",
+            "code": "EN154",
+            "name": "Spent Cat. & Adsorbent",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "377",
+            "code": "EN155",
+            "name": "Spent Cat. & Adsorbent 27A002A/B",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "378",
+            "code": "EN156",
+            "name": "Spent Cat. & Adsorbent 27A005A/B",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "379",
+            "code": "EN157",
+            "name": "Spent Cat. & Adsorbent A3702R",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "380",
+            "code": "EN158",
+            "name": "Spent Cat. & Adsorbent A4801A",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "381",
+            "code": "EN159",
+            "name": "Spent Cat. & Adsorbent A4801B",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "382",
+            "code": "EN160",
+            "name": "Spent Cat. & Adsorbent A4801C",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "383",
+            "code": "EN161",
+            "name": "Spent Cat. & Adsorbent A4801D",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "384",
+            "code": "EN162",
+            "name": "Spent Cat. & Adsorbent A4801E",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "385",
+            "code": "EN163",
+            "name": "Spent Cat. & Adsorbent A5501A",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "386",
+            "code": "EN164",
+            "name": "Spent Cat. & Adsorbent A5501R",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "387",
+            "code": "EN165",
+            "name": "Spent Cat. & Adsorbent R5201A",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "388",
+            "code": "EN166",
+            "name": "Spent Cat. & Adsorbent R5201R",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "389",
+            "code": "EN167",
+            "name": "Spent Cat. & Adsorbent R6101A",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "390",
+            "code": "EN168",
+            "name": "Spent Cat. & Adsorbent R6101R",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "391",
+            "code": "EN169",
+            "name": "Spent Cat. & Adsorbent R6401",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "392",
+            "code": "EN170",
+            "name": "Spent Cat. & Adsorbent R8301A",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "393",
+            "code": "EN171",
+            "name": "Spent Cat. & Adsorbent R8301R",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "394",
+            "code": "EN172",
+            "name": "Spent Cat. & Adsorbent R8302A",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "395",
+            "code": "EN173",
+            "name": "Spent Cat. & Adsorbent R8302R",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "396",
+            "code": "EN174",
+            "name": "Spent Cat. & Adsorbent R8303A",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "397",
+            "code": "EN175",
+            "name": "Spent Cat. & Adsorbent R8303R",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "398",
+            "code": "EN176",
+            "name": "Spent Cat. & Adsorbent R8304A",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "399",
+            "code": "EN177",
+            "name": "Spent Cat. & Adsorbent R8304R",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "400",
+            "code": "EN178",
+            "name": "Spent Cat. & Adsorbent 03R001",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "401",
+            "code": "EN179",
+            "name": "Spent Cat. & Adsorbent 03R002",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "402",
+            "code": "EN180",
+            "name": "Spent Cat. & Adsorbent 02C005A",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "403",
+            "code": "EN181",
+            "name": "Spent Cat. & Adsorbent 02C005B",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "404",
+            "code": "EN182",
+            "name": "Spent Cat. & Adsorbent 03XF01",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "405",
+            "code": "EN183",
+            "name": "Spent Cat. & Adsorbent 03XF02",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "406",
+            "code": "EN184",
+            "name": "Spent Cat. & Adsorbent 11R001A/B",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "407",
+            "code": "EN185",
+            "name": "Spent Cat. & Adsorbent 12R001-4",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "408",
+            "code": "EN186",
+            "name": "สารดูดซับที่ใช้แล้วจากUnit17C002",
+            "detail": "Activated carbon",
+            "material": "Disposal"
+        },
+        {
+            "id": "409",
+            "code": "EN187",
+            "name": "Spent Cat. & Adsorbent 33F001",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "410",
+            "code": "EN188",
+            "name": "Spent Cat. & Adsorbent 33F003",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "411",
+            "code": "EN189",
+            "name": "Spent Cat. & Adsorbent 33F004",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "412",
+            "code": "EN190",
+            "name": "Spent Cat. & Adsorbent 33F005",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "413",
+            "code": "EN191",
+            "name": "Spent Cat. & Adsorbent 33C001",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "414",
+            "code": "EN192",
+            "name": "Spent Cat. & Adsorbent 33C002",
+            "detail": "สารเร่งปฏิกิริยาและสารดูดซับที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "415",
+            "code": "EN193",
+            "name": "Asphaltene",
+            "detail": "ยางมะตอยที่เกิดขึ้นจากงานทำความสะอาดถังจัดเก็บผลิตภัณฑ์",
+            "material": "Disposal"
+        },
+        {
+            "id": "416",
+            "code": "EN194",
+            "name": "Chemical treatment Sludge",
+            "detail": "เป็น Chemical treatment sludge จาก CP",
+            "material": "Disposal"
+        },
+        {
+            "id": "417",
+            "code": "EN195",
+            "name": "ซากตลับหมึก",
+            "detail": "ซากตลับหมึกปริ้นท์",
+            "material": "Disposal"
+        },
+        {
+            "id": "418",
+            "code": "ES006",
+            "name": "Com.1 mixed Dirty Powder & Fine,Fluff",
+            "detail": "พลาสติกสกปรกที่ผสมกันทั้ง LD, HD, PP",
+            "material": "Scrap"
+        },
+        {
+            "id": "419",
+            "code": "ES008",
+            "name": "Flouling Polymer",
+            "detail": "กากโพลิเมอร์ก้อนใหญ่ที่ติดบริเวณถัง",
+            "material": "Scrap"
+        },
+        {
+            "id": "420",
+            "code": "ES011",
+            "name": "HD Dirty Wax",
+            "detail": "แวกซ์สกปรก",
+            "material": "Disposal"
+        },
+        {
+            "id": "421",
+            "code": "ES013",
+            "name": "Com.2 Dirty Plastic.Dirty Fine&Fluff",
+            "detail": "เศษพลาสติก Com.2 สกปรก",
+            "material": "Scrap"
+        },
+        {
+            "id": "422",
+            "code": "ES015",
+            "name": "Fly Ash PC Boiler",
+            "detail": "ขี้เถ้าลอย PC Boiler",
+            "material": "Scrap"
+        },
+        {
+            "id": "423",
+            "code": "ES016",
+            "name": "Fly Ash CFBC Boiler",
+            "detail": "ขี้เถ้าลอย CFBC Boiler",
+            "material": "Scrap"
+        },
+        {
+            "id": "424",
+            "code": "ES017",
+            "name": "Bottom Ash",
+            "detail": "ขี้เถ้าหนัก PC&CFBC Boiler",
+            "material": "Scrap"
+        },
+        {
+            "id": "425",
+            "code": "ES018",
+            "name": "Fine cat. DCC",
+            "detail": "สารเร่งปฏิกิริยาที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "426",
+            "code": "ES019",
+            "name": "LUBE Oil Dead Stock",
+            "detail": "LUBE Oil หมดอายุ",
+            "material": "Scrap"
+        },
+        {
+            "id": "427",
+            "code": "ES020",
+            "name": "Distillation heptane",
+            "detail": "Heptane",
+            "material": "Disposal"
+        },
+        {
+            "id": "428",
+            "code": "ES023",
+            "name": "ซากอุปกรณ์ไฟฟ้า",
+            "detail": "บาลาส, เบรคเกอร์, Power soket, ปลั๊ก , ซากแผ่นวงจรอิเล็คทรอนิค",
+            "material": "Disposal"
+        },
+        {
+            "id": "429",
+            "code": "ES024",
+            "name": "แผ่นวงจรอิเล็คทรอนิคส์",
+            "detail": "ซากแผ่นวงจรอิเล็คทรอนิค",
+            "material": "Disposal"
+        },
+        {
+            "id": "430",
+            "code": "ES025",
+            "name": "ซากจอภาพ",
+            "detail": "ซากจอภาพ, monitor, คอมพิวเตอร์",
+            "material": "Disposal"
+        },
+        {
+            "id": "431",
+            "code": "ES027",
+            "name": "Additive plastic bag",
+            "detail": "ถุงพลาสติกใส่ additive",
+            "material": "Scrap"
+        },
+        {
+            "id": "432",
+            "code": "ES029",
+            "name": "Used jumbo bag(chemical)",
+            "detail": "Used jumbo bag(chemical)",
+            "material": "Scrap"
+        },
+        {
+            "id": "433",
+            "code": "ES031",
+            "name": "Dirty Plastic Drum 850,1000 Lts.",
+            "detail": "ถังพลาสติกสกปรก ขนาด 850, 1000 ลิตร",
+            "material": "Disposal"
+        },
+        {
+            "id": "434",
+            "code": "ES032",
+            "name": "Plastic pallet (dirty)",
+            "detail": "พาเลทพลาสติกสกปรก",
+            "material": "Disposal"
+        },
+        {
+            "id": "435",
+            "code": "ES034",
+            "name": "Plastic box toner",
+            "detail": "ซากตลับหมึกปริ้นท์",
+            "material": "Disposal"
+        },
+        {
+            "id": "436",
+            "code": "ES037",
+            "name": "Dirty Tar oil",
+            "detail": "Dirty Tar oil",
+            "material": "Disposal"
+        },
+        {
+            "id": "437",
+            "code": "ES038",
+            "name": "Polystyrene chunk",
+            "detail": "Polystyrene chunk",
+            "material": "Disposal"
+        },
+        {
+            "id": "438",
+            "code": "ES039",
+            "name": "Ricoh box toner",
+            "detail": "ซากตลับหมึกปริ้นท์",
+            "material": "Disposal"
+        },
+        {
+            "id": "439",
+            "code": "ES040",
+            "name": "Spent cat22R002",
+            "detail": "สารเร่งปฏิกิริยาที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "440",
+            "code": "ES041",
+            "name": "Heavy volatile",
+            "detail": "ตัวทำละลาย",
+            "material": "Disposal"
+        },
+        {
+            "id": "441",
+            "code": "ES042",
+            "name": "Spent cat",
+            "detail": "สารเร่งปฏิกิริยาที่ใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "442",
+            "code": "FR001",
+            "name": "Used oil",
+            "detail": "น้ำมัน,น้ำมันหล่อลื่นใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "443",
+            "code": "FR002",
+            "name": "Used oil",
+            "detail": "น้ำมัน,น้ำมันหล่อลื่นใช้แล้ว",
+            "material": "Disposal"
+        },
+        {
+            "id": "444",
+            "code": "RA001",
+            "name": "Film",
+            "detail": "ฟิล์มพลาสติก",
+            "material": "Recycle"
+        },
+        {
+            "id": "445",
+            "code": "RA003",
+            "name": "Foil pack",
+            "detail": "ชิ้นฟลอยกรองน้ำ",
+            "material": "Recycle"
+        },
+        {
+            "id": "446",
+            "code": "RA101",
+            "name": "LD Nood polymer",
+            "detail": "ก้อนพลาสติก LD",
+            "material": "Recycle"
+        },
+        {
+            "id": "447",
+            "code": "RA102",
+            "name": "HD Nood polymer",
+            "detail": "ก้อนพลาสติก HD",
+            "material": "Recycle"
+        },
+        {
+            "id": "448",
+            "code": "RA103",
+            "name": "PP Nood polymer",
+            "detail": "ก้อนพลาสติก PP",
+            "material": "Recycle"
+        },
+        {
+            "id": "449",
+            "code": "RA104",
+            "name": "CD1 Nood polymer",
+            "detail": "ก้อนพลาสติก CD1",
+            "material": "Recycle"
+        },
+        {
+            "id": "450",
+            "code": "RA105",
+            "name": "ABS Nood polymer",
+            "detail": "ก้อนพลาสติก ABS",
+            "material": "Recycle"
+        },
+        {
+            "id": "451",
+            "code": "RA106",
+            "name": "SAN Nood polymer",
+            "detail": "ก้อนพลาสติก SAN",
+            "material": "Recycle"
+        },
+        {
+            "id": "452",
+            "code": "RA107",
+            "name": "CCM Nood polymer",
+            "detail": "ก้อนพลาสติก CCM",
+            "material": "Recycle"
+        },
+        {
+            "id": "453",
+            "code": "RA108",
+            "name": "PS Nood polymer",
+            "detail": "ก้อนพลาสติก PS",
+            "material": "Recycle"
+        },
+        {
+            "id": "454",
+            "code": "RA109",
+            "name": "EPS Nood polymer",
+            "detail": "ก้อนพลาสติก EPS",
+            "material": "Recycle"
+        },
+        {
+            "id": "455",
+            "code": "RA110",
+            "name": "PS GPPS Nood polymer",
+            "detail": "ก้อนพลาสติก PS",
+            "material": "Recycle"
+        }
+    ]
+}
